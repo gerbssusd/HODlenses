@@ -1,6 +1,7 @@
 ---
 theme: seriph
 title: "Applying the Lenses: Heart of Darkness"
+favicon: "Maxfav.png"
 info: |
   Twenty critical lenses applied to Joseph Conrad's Heart of Darkness (1899), with MLA sources.
 author: D. Gerber
